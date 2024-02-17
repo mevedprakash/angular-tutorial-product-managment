@@ -1,92 +1,103 @@
 {
-    "products":[
+  "products": [
     {
-        "id": "1",
-        "brand": "Here&Now",
-        "image": "https://rukminim2.flixcart.com/image/612/612/l3j2cnk0/t-shirt/2/w/p/l-723-2-5-7-8-ftx-original-imagemgrpafdug8v.jpeg?q=70",
-        "currentPrice": "150",
-        "standardPrice": "300",
-        "discount": "50",
-        "name": "Men Pure Cotton T-Shirt"
-      },
-      {
-        "brand": "Roadster",
-        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/c/8/x/xl-jawan-one-nb-nicky-boy-original-imagwbavcwbtznv5.jpeg?q=70",
-        "currentPrice": "400",
-        "standardPrice": "600",
-        "discount": "40",
-        "name": "Men Printed Round Neck Pure Cotton Grey T-Shirt",
-        "id": "2"
-      },
-      {
-        "id": "3",
-        "brand": "Here&Now",
-        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/q/i/4/m-men-s-cotton-blend-stylist-slim-fit-collar-neck-polo-t-shirt-original-imag6efumx32nuad-bb.jpeg?q=70",
-        "currentPrice": "150",
-        "standardPrice": "300",
-        "discount": "50",
-        "name": "Men Pure Cotton T-Shirt"
-      },
-      {
-        "id": "4",
-        "brand": "US. POLO",
-        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/g/k/b/s-ts12-vebnor-original-imagpnbhkeabf3ap.jpeg?q=70",
-        "currentPrice": "150",
-        "standardPrice": "300",
-        "discount": "50",
-        "name": "Men Pure Cotton T-Shirt"
-      },
-      {
-        "id": "5",
-        "brand": "Here&Now",
-        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/s/1/q/34-ljrmg005-lzard-original-imagteww2sghnje9.jpeg?q=70",
-        "currentPrice": "150",
-        "standardPrice": "300",
-        "discount": "50",
-        "name": "Men skye blue Jeans"
-      }, {
-        "id": "1",
-        "brand": "Here&Now",
-        "image": "https://rukminim2.flixcart.com/image/612/612/l3j2cnk0/t-shirt/2/w/p/l-723-2-5-7-8-ftx-original-imagemgrpafdug8v.jpeg?q=70",
-        "currentPrice": "150",
-        "standardPrice": "300",
-        "discount": "50",
-        "name": "Men Pure Cotton T-Shirt"
-      },
-      {
-        "brand": "Roadster",
-        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/c/8/x/xl-jawan-one-nb-nicky-boy-original-imagwbavcwbtznv5.jpeg?q=70",
-        "currentPrice": "400",
-        "standardPrice": "600",
-        "discount": "40",
-        "name": "Men Printed Round Neck Pure Cotton Grey T-Shirt",
-        "id": "2"
-      },
-      {
-        "id": "3",
-        "brand": "Here&Now",
-        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/q/i/4/m-men-s-cotton-blend-stylist-slim-fit-collar-neck-polo-t-shirt-original-imag6efumx32nuad-bb.jpeg?q=70",
-        "currentPrice": "150",
-        "standardPrice": "300",
-        "discount": "50",
-        "name": "Men Pure Cotton T-Shirt"
-      },
-      {
-        "id": "4",
-        "brand": "US. POLO",
-        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/g/k/b/s-ts12-vebnor-original-imagpnbhkeabf3ap.jpeg?q=70",
-        "currentPrice": "150",
-        "standardPrice": "300",
-        "discount": "50",
-        "name": "Men Pure Cotton T-Shirt"
-      },
-      {
-        "id": "5",
-        "brand": "Here&Now",
-        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/s/1/q/34-ljrmg005-lzard-original-imagteww2sghnje9.jpeg?q=70",
-        "currentPrice": "150",
-        "standardPrice": "300",
-        "discount": "50",
-        "name": "Men skye blue Jeans"
-      }]
+      "id": "1",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l3j2cnk0/t-shirt/2/w/p/l-723-2-5-7-8-ftx-original-imagemgrpafdug8v.jpeg?q=70",
+      "currentPrice": "150",
+      "standardPrice": "300",
+      "discount": "50",
+      "name": "Men Pure Cotton T-Shirt"
+    },
+    {
+      "id": "2",
+      "name": "Men Printed Round Neck Pure Cotton uuuuuuuuuuuuuuuuuu",
+      "brand": "Roadster",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/c/8/x/xl-jawan-one-nb-nicky-boy-original-imagwbavcwbtznv5.jpeg?q=70",
+      "currentPrice": "400",
+      "standardPrice": "600",
+      "discount": "40"
+    },
+    {
+      "id": "3",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/q/i/4/m-men-s-cotton-blend-stylist-slim-fit-collar-neck-polo-t-shirt-original-imag6efumx32nuad-bb.jpeg?q=70",
+      "currentPrice": "150",
+      "standardPrice": "300",
+      "discount": "50",
+      "name": "Men Pure Cotton T-Shirt"
+    },
+    {
+      "id": "4",
+      "brand": "US. POLO",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/g/k/b/s-ts12-vebnor-original-imagpnbhkeabf3ap.jpeg?q=70",
+      "currentPrice": "150",
+      "standardPrice": "300",
+      "discount": "50",
+      "name": "Men Pure Cotton T-Shirt"
+    },
+    {
+      "id": "5",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/s/1/q/34-ljrmg005-lzard-original-imagteww2sghnje9.jpeg?q=70",
+      "currentPrice": "150",
+      "standardPrice": "300",
+      "discount": "50",
+      "name": "Men skye blue Jeans"
+    },
+    {
+      "id": "1",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l3j2cnk0/t-shirt/2/w/p/l-723-2-5-7-8-ftx-original-imagemgrpafdug8v.jpeg?q=70",
+      "currentPrice": "150",
+      "standardPrice": "300",
+      "discount": "50",
+      "name": "Men Pure Cotton T-Shirt"
+    },
+    {
+      "brand": "Roadster",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/c/8/x/xl-jawan-one-nb-nicky-boy-original-imagwbavcwbtznv5.jpeg?q=70",
+      "currentPrice": "400",
+      "standardPrice": "600",
+      "discount": "40",
+      "name": "Men Printed Round Neck Pure Cotton Grey T-Shirt",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/q/i/4/m-men-s-cotton-blend-stylist-slim-fit-collar-neck-polo-t-shirt-original-imag6efumx32nuad-bb.jpeg?q=70",
+      "currentPrice": "150",
+      "standardPrice": "300",
+      "discount": "50",
+      "name": "Men Pure Cotton T-Shirt"
+    },
+    {
+      "id": "4",
+      "brand": "US. POLO",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/g/k/b/s-ts12-vebnor-original-imagpnbhkeabf3ap.jpeg?q=70",
+      "currentPrice": "150",
+      "standardPrice": "300",
+      "discount": "50",
+      "name": "Men Pure Cotton T-Shirt"
+    },
+    {
+      "id": "5",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/s/1/q/34-ljrmg005-lzard-original-imagteww2sghnje9.jpeg?q=70",
+      "currentPrice": "150",
+      "standardPrice": "300",
+      "discount": "50",
+      "name": "Men skye blue Jeans"
+    },
+    {
+      "id": "6cdd",
+      "name": "SONY Alpha ILCE-1/BQ IN5 Mirrorless Camera Body Only  (Black)",
+      "brand": "SONY",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/dslr-camera/g/o/y/-original-imagvjzkzkpjqsay.jpeg?q=70",
+      "currentPrice": "35000",
+      "standardPrice": "70000",
+      "discount": "50"
+    }
+  ]
 }
